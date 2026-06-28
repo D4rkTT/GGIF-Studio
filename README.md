@@ -1,5 +1,7 @@
 # GGIF Studio
 
+![Screenshot](./screenshot.png)
+
 Animate GIFs on the OLED screen of SteelSeries devices (built for the **Arctis Nova Pro Wireless** base station) via the [GameSense SDK](https://github.com/SteelSeries/gamesense-sdk).
 
 Electron + TypeScript + React. No native dependencies → builds clean on Windows and macOS.
